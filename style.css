@@ -1,0 +1,27 @@
+body{
+    background-color: skyblue;
+    margin: 20px;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  flex-shrink:1 ;
+}
+.div1{
+    width: 225px;
+    text-align:center;
+    padding: 5px;
+    margin:5px;
+    border: 2px solid slategray;
+}
+.div1{
+    font-size: 17px;
+    font-weight: 530;
+}
+img{
+    width: 100%;
+}
+.image{
+   background-color: black;    
+}
